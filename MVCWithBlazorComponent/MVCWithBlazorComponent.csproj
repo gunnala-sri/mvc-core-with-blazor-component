@@ -4,8 +4,8 @@
     <TargetFramework>netcoreapp3.0</TargetFramework>
   </PropertyGroup>
 
-
   <ItemGroup>
+    <ProjectReference Include="..\RazorComponentLibrary\RazorComponentLibrary.csproj" />
   </ItemGroup>
 
 </Project>
